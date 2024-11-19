@@ -28,12 +28,24 @@ Title: "Develop User Authentication Module"
 Description: Establish a secure and valid method for user registration, login, and password recovery. Add functionality such as mail-based verification and hashed passwords.
 Assigned To: Sanju burman
 Labels: task, critical
+## 3. Using Project Boards
+Columns:
 Milestone	Description	Deadline
 Planning	Complete project research	18/11/2024
 Design	Finalize UI/UX designs	20/11/2024
 Development	Build and integrate features	30/11/2024
 Testing	Test functionality and fix bugs	02/12/2024
 Launch	Deploy the website	04/12/2024
+
+Five Issues in the "To Do" Column:
+Research book categories and genres for cataloging.
+Design homepage layout for "Your Library."
+Fix payment gateway redirection issues.
+Add a "Best Sellers" section to the homepage.
+Test mobile responsiveness across devices.
+Usage Plan:
+The project board will serve as a visual tracking tool to monitor progress. Issues will move between columns as they are addressed, ensuring transparency. Each task is assigned to team members with due dates to maintain accountability. This approach promotes effective collaboration and minimizes delays.
+
 
 ## 4. Linking Issues to Milestones
 Linked Issues
